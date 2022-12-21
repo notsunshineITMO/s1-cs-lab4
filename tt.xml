@@ -1,0 +1,12 @@
+<Timetable>
+<Weekday> Monday
+<Time> 08:20-09:50
+<Room> 1328</Room>
+<Lesson> Programming</Lesson>
+</Time>
+<Time> 10:00-11:30
+<Room> 1328</Room>
+<Lesson> Programming</Lesson>
+</Time>
+</Weekday>
+</Timetable>
